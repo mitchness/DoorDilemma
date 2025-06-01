@@ -105,9 +105,9 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          I’m gonna need physical therapy now!
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
-LARRY tells the story to his AGENT (TED).
+LARRY tells the story to his AGENT (JEFF).
 
-                TED
+                JEFF
          You did the right thing. She was far. There's a door distance limit. Everyone knows that.
 
                 LARRY
@@ -115,27 +115,27 @@ LARRY tells the story to his AGENT (TED).
 
 You know what it was though.  The door shut very slow.  Molassis slow.  And then, at the last second it does that slam.
 
-TED’S WIFE enters.
+JEFF’S WIFE enters.
 
-                WIFE
+                SUSIE
          Who are you talking about?
 
-                TED
+                JEFF
          Some lady who hurt her shoulder.
 
-                WIFE
+                SUSIE
          Wait... Sandra? Sandra with the Pilates place?
 
                 LARRY
          She does Pilates? That shoulder didn’t look flexible to me.
 
-                WIFE
+                SUSIE
          She’s my friend, Larry!
 
                 LARRY
          I've never heard you mention her.
 
-                WIFE
+                SUSIE
          Shut up.  Anyways, she said some guy “aggressively didn’t hold the door.” Now she had to see a chiropractor!
 
                 LARRY
@@ -156,7 +156,8 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          Yeah, but I held it. I made the gesture. It’s the gesture that counts!
 
                 SUSIE
-         There’s no holding! It’s an automatic door, you jackass! You're pretending to hold light and motion sensors!
+         There’s no holding! There's no gesture.  It’s an automatic door, you jackass!
+         You're pretending to hold light and motion sensors!
 
                 JEFF
          Larry... she’s kinda right.
@@ -165,23 +166,35 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          Of course you’re taking her side. But it’s symbolic. It’s body language. 
          I’m saying, “Hey, I care. Go ahead.” That’s what society runs on—symbolic doors.
 
-                SUSIE
-         You want a medal for LARPing as a doorman? Get the hell inside before I shut the automatic door with my mind.
+                  SUSIE
+         You want a trophy for pretending to hold a door that opens itself? What’s next, you gonna salute the elevator?
+
+                  LARRY
+         It’s called consideration. I’m projecting politeness!
+
+                  SUSIE
+         You’re projecting something, all right.
+
+                  JEFF
+         It’s kinda like bowing to a motion sensor, Lar.
+
+                  LARRY
+         It’s a gesture! The world needs gestures! What are we without gestures?
+
+                  SUSIE
+         Human beings with common sense.
+
+                  LARRY
+         No. We’re animals. Doorless animals.
 
                 LARRY (pouting)
          Wow. Door respect is dead.
 
-                JEFF
-         To be fair, it’s like miming an umbrella in the rain.
-
-                LARRY
-         Thank you, Marcel Marceau.
-
 
 ## SCENE 7 – INT. COFFEE SHOP – NEXT DAY
-LARRY and TED enter. Larry opens the door for Ted.
+LARRY and JEFF enter. Larry opens the door for JEFF.
 
-                 TED
+                 JEFF
          Wow. What a gentleman.
 
                  LARRY
@@ -221,7 +234,7 @@ Guess who’s also in the shop? The DENTIST and RECEPTIONIST enjoying some coffe
                 LARRY
           I’m not the Door Dictator! Okay? I’m just trying to get a cup of coffee without becoming a door villain!
 
-                TED
+                JEFF
           Door-tator.
 
                 LARRY
