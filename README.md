@@ -22,7 +22,7 @@ The man finally reaches the door.
 He shuffles inside. Larry is stuck behind him, crawling pace. They reach the elevators—doors closing.
   
                 LARRY
-         Hey! Can you—!
+         Hey! Can you hold the door—!
   
 Too late. The elevator is gone.
   
@@ -111,9 +111,24 @@ LARRY tells the story to his AGENT (JEFF).
          You did the right thing. She was far. There's a door distance limit. Everyone knows that.
 
                 LARRY
-         Exacty!  Thank you!  If that door shuts by the time I’m not the Door Doorman! It’s not a hotel!
+         Exacty!  Thank you!  I’m not the Door Doorman! It’s not a hotel!
+         And besides, if that door shuts by the time she gets there.  That's it.  That's fair.
+         
+                JEFF
+         It's like you weren't even there.
 
-You know what it was though.  The door shut very slow.  Molassis slow.  And then, at the last second it does that slam.
+                LARRY
+         But you know, the door was one of those slow-shutters.
+
+                JEFF
+         Well that makes it hard to gauge.
+
+                LARRY
+         It sure does.  And to top it off, it was one of those doors that has the last second slams.
+         
+                JEFF
+         You never know if they are going to do that.
+
 
 JEFF’S WIFE enters.
 
@@ -176,7 +191,7 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          You’re projecting something, all right.
 
                   JEFF
-         It’s kinda like bowing to a motion sensor, Lar.
+         You're play-acting courtesy for a robot, Larry.
 
                   LARRY
          It’s a gesture! The world needs gestures! What are we without gestures?
