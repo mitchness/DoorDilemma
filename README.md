@@ -98,7 +98,8 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          You couldn’t have held it five more seconds?
 
                 LARRY
-         Five seconds? You’re assuming she walks like a sprinter! What if I stand there five, then ten—then we’re back to Slow-Mo from last week!
+         Five seconds? You’re assuming she walks like a sprinter! 
+         What if I stand there five, then ten.  Then we’re back to Slow-Mo from last week!
 
                 WOMAN
          I’m gonna need physical therapy now!
@@ -110,7 +111,9 @@ LARRY tells the story to his AGENT (TED).
          You did the right thing. She was far. There's a door distance limit. Everyone knows that.
 
                 LARRY
-         Thank you! I’m not the Door Doorman! It’s not a hotel!
+         Exacty!  Thank you!  If that door shuts by the time I’m not the Door Doorman! It’s not a hotel!
+
+You know what it was though.  The door shut very slow.  Molassis slow.  And then, at the last second it does that slam.
 
 TED’S WIFE enters.
 
@@ -137,6 +140,43 @@ TED’S WIFE enters.
 
                 LARRY
          "Aggressively didn’t hold the door"?! That’s not even a thing!
+
+## SCENE 8 – EXT. HOTEL LOBBY ENTRANCE – DAY
+LARRY, JEFF, and SUSIE are walking up to a fancy hotel. A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
+
+LARRY rushes a few steps ahead and stretches out his arms dramatically—like he's holding the doors open himself.
+
+                LARRY (after a beat)
+         There you go. Look at that. Door courtesy.
+
+                SUSIE (laughing, then dead serious)
+         Are you outta your mind? You didn’t open that door! It opened itself!
+
+                LARRY
+         Yeah, but I held it. I made the gesture. It’s the gesture that counts!
+
+                SUSIE
+         There’s no holding! It’s an automatic door, you jackass! You're pretending to hold light and motion sensors!
+
+                JEFF
+         Larry... she’s kinda right.
+
+                LARRY
+         Of course you’re taking her side. But it’s symbolic. It’s body language. 
+         I’m saying, “Hey, I care. Go ahead.” That’s what society runs on—symbolic doors.
+
+                SUSIE
+         You want a medal for LARPing as a doorman? Get the hell inside before I shut the automatic door with my mind.
+
+                LARRY (pouting)
+         Wow. Door respect is dead.
+
+                JEFF
+         To be fair, it’s like miming an umbrella in the rain.
+
+                LARRY
+         Thank you, Marcel Marceau.
+
 
 ## SCENE 7 – INT. COFFEE SHOP – NEXT DAY
 LARRY and TED enter. Larry opens the door for Ted.
