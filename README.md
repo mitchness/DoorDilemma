@@ -118,7 +118,7 @@ LARRY tells the story to his AGENT (JEFF).
          It's like you weren't even there.
 
                 LARRY
-         But you know, the door was one of those slow-shutters.
+         But you know..., the door was one of those slow-shutters.
 
                 JEFF
          Well that makes it hard to gauge.
