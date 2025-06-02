@@ -104,44 +104,45 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          Larry...
 
                   LARRY
-         Okay look, I’ve got a system - a door timing algorithm. You factor in distance, 
-         pace, hand-readiness, wind resistance—
+         Look, I’ve got a system, okay? - a door timing algorithm. You account for distance, 
+         walking speed, athleticism, wind resistance—
 
                    RECEPTIONIST
          Wind resistance?
 
                   LARRY
-         Yes, if she’s carrying a tote bag or fighting a headwind, that’s time off the clock!
-
-         But anyways.  If that door closes by the time she arrives to the door.  I'm in the clear.
-         It’s a real-time ethical equation.
+         Yes, if she’s carrying a tote bag or fighting a headwind, you shave off seconds.
+         It’s all math.
 
                   WOMAN
-         So you crunched the numbers... and let the door hit me?
+         You calculated whether or not to hold the door?
 
                   LARRY
          I didn't use a calculator — there was instinctual math happening. 
+         It’s a real-time ethical math equation!
          
-         And no, I didn’t let anything happen — the door closed on its own. Naturally.
-         It’s a slow-shutter door! But then at the last second, bam! One of those passive-aggressive slams.
-
-                  WOMAN
-         I was right there!
-
+                  RECEPTIONIST
+         And the solution was “let the door crush her”?
 
                   LARRY
-         Eh.  No, you were approaching "there." A vague, potential "there."
+         No, look. If the door closes... naturally... by the time she gets to the door
+         — well then I’m in the clear.
+         But the door was one of those slow-shutters.
 
                 DENTIST
          Larry...
+
+                  LARRY
+         She was so far away.
 
                 RECEPTIONIST
          You couldn’t have held it five more seconds?
 
                 LARRY
-         You’re assuming she walks like a sprinter. What if I wait five, then ten?
-         Now I’m a hostage. That’s how you get stuck with a Slow-Mo situation again!
-
+         Five seconds? You’re assuming she walks like a sprinter!
+         What if I wait five, then ten?
+         Then we’re back to Slow-Mo from last week!
+         
                 WOMAN
          Well now I need physical therapy — thanks to your little algorithm.
 
