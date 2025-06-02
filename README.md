@@ -86,7 +86,7 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
                   WOMAN
          The door closed on me. I think I messed up my shoulder. 
          Some guy, he saw me coming but couldn't be bothered to hold the door open for me.
-         Short, wiry... kinda hunched. Like a neurotic meerkat.
+         This short, wiry guy... kinda hunched. Like a neurotic meerkat.
 
 (Receptionist and Dentist both freeze. Everyone turns. Larry’s trying to become one with the chair upholstery.)
 
