@@ -156,7 +156,7 @@ LARRY tells the story to his AGENT (JEFF).
          You did the right thing. She was far. There's a door distance limit. Everyone knows that.
 
                 LARRY
-         Exacty!  Thank you!  If that door shuts by the time she gets there.  
+         Exactly!  Thank you!  If that door shuts by the time she gets there.  
          That's it.  That's fair. 
          I’m not some bellhop with door duties. If she’s not there in time, game over. Door’s closed.
          
