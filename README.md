@@ -73,7 +73,7 @@ He eyes her... then shrugs and lets the door go. It closes behind him.
 Seconds later: THUD... gasp.
 
 ## SCENE 5 – INT. DENTIST WAITING ROOM – MINUTES LATER
-LARRY sits with a magazine. The WOMAN enters, holding her shoulder.
+LARRY sitting with his phone. The WOMAN enters, holding her shoulder.
 
                 WOMAN
          Ow... oh man...
