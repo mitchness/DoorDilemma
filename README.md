@@ -88,7 +88,9 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          Some guy, he saw me coming but couldn't be bothered to hold the door open for me.
          This short, wiry guy... kinda hunched. Like a neurotic meerkat.
 
-(Receptionist and Dentist both freeze. Everyone turns. Larry’s trying to become one with the chair upholstery.)
+Larry quickly picks up a magazine and tries to hide his face.  He looks quizidly.  
+Turns it around to look at the magazine cover.  It says "Womens World".  The main article is titled “10 Foods That Will Ruin Your Gums.”
+That's when everyone notices him.
 
                   LARRY
          Alright, alright — “neurotic meerkat”? That’s a little personal, don’t you think?
