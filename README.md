@@ -112,6 +112,8 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
 
                   LARRY
          Yes, if she’s carrying a tote bag or fighting a headwind, that’s time off the clock!
+
+         But anyways.  If that door closes by the time she arrives to the door.  I'm in the clear.
          It’s a real-time ethical equation.
 
                   WOMAN
