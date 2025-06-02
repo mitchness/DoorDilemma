@@ -114,8 +114,6 @@ That's when everyone notices him.
 
                   LARRY
          Yes, if she’s carrying a tote bag or fighting a headwind, you shave off seconds.
-         But anyways.  If that door closes by the time she arrives to the door.  I'm in the clear.
-
          It’s all math.
 
                   WOMAN
