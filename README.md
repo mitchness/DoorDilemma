@@ -40,7 +40,7 @@ LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
          Ten minutes?! That’s nothing! Ten minutes is not late, that’s... human.
 
                 RECEPTIONIST
-         You're in luck.  We had a cancellation. But that's not until an hour.
+         You are in luck, though.  We had a cancellation. But that's not until an hour.
 
                 LARRY (gesturing behind him)
          I got stuck behind a human speed bump. Ever try walking behind molasses with arthritis? That’s what I did!
@@ -80,16 +80,55 @@ LARRY sits with a magazine. The WOMAN enters, holding her shoulder.
 
 RECEPTIONIST rushes over. The DENTIST peeks out.
 
-                RECEPTIONIST
+                  RECEPTIONIST
          Oh my god, what happened?
 
-                WOMAN
-         The door closed on me. I hurt my shoulder. Some guy didn’t hold it open.
+                  WOMAN
+         The door closed on me. I think I messed up my shoulder. 
+         Some guy, he saw me coming but couldn't be bothered to hold the door open for me.
+         Short, wiry... kinda hunched. Like a neurotic meerkat.
 
-(All heads turn to Larry.)
+(Receptionist and Dentist both freeze. Everyone turns. Larry’s trying to become one with the chair upholstery.)
 
-                LARRY
-         What?! No! That door was basically closed already. She was so far away.
+                  LARRY
+         Alright, alright — “neurotic meerkat”? That’s a little personal, don’t you think?
+
+                  WOMAN (notices him)
+         You?!
+
+                  LARRY
+         Yes, me. But in my defense — and I say this with all due respect —
+         you were a speck on the horizon. A silhouette. Maybe a mirage!
+
+                  DENTIST
+         Larry...
+
+                  LARRY
+         Okay look, I’ve got a system - a door timing algorithm. You factor in distance, 
+         pace, hand-readiness, wind resistance—
+
+                   RECEPTIONIST
+         Wind resistance?
+
+                  LARRY
+         Yes, if she’s carrying a tote bag or fighting a headwind, that’s time off the clock!
+         It’s a real-time ethical equation.
+
+                  WOMAN
+         So you crunched the numbers... and let the door hit me?
+
+                  LARRY
+         I didn't use a calculator — there was instinctual math happening. 
+         
+         And no, I didn’t let anything happen — the door closed on its own. Naturally.
+         It’s a slow-shutter door! But then at the last second, bam! One of those passive-aggressive slams.
+
+                  WOMAN
+         I was right there!
+
+
+                  LARRY
+         Eh.  No, you were approaching "there." A vague, potential "there."
 
                 DENTIST
          Larry...
@@ -98,11 +137,12 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          You couldn’t have held it five more seconds?
 
                 LARRY
-         Five seconds? You’re assuming she walks like a sprinter! 
-         What if I stand there five, then ten.  Then we’re back to Slow-Mo from last week!
+         You’re assuming she walks like a sprinter. What if I wait five, then ten?
+         Now I’m a hostage. That’s how you get stuck with a Slow-Mo situation again!
 
                 WOMAN
-         I’m gonna need physical therapy now!
+         Well now I need physical therapy — thanks to your little algorithm.
+
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
 LARRY tells the story to his AGENT (JEFF).
@@ -111,23 +151,26 @@ LARRY tells the story to his AGENT (JEFF).
          You did the right thing. She was far. There's a door distance limit. Everyone knows that.
 
                 LARRY
-         Exacty!  Thank you!  I’m not the Door Doorman! It’s not a hotel!
-         And besides, if that door shuts by the time she gets there.  That's it.  That's fair.
+         Exacty!  Thank you!  If that door shuts by the time she gets there.  
+         That's it.  That's fair. 
+         I’m not some bellhop with door duties. If she’s not there in time, game over. Door’s closed.
          
                 JEFF
-         It's like you weren't even there.
+         Like you were never even part of the equation.
 
                 LARRY
-         But you know..., the door was one of those slow-shutters.
+         But you know..., the door was one of those slow-shutters — you know the kind.
 
                 JEFF
+         The fake-out slow ones?
          Well that makes it hard to gauge.
 
                 LARRY
          It sure does.  And to top it off, it was one of those doors that has the last second slams.
+         Teases you like it’s staying open... then snaps shut like a bear trap.
          
                 JEFF
-         You never know if they are going to do that.
+         Those are the worst.  Totally unpredictable.  Mechanical treachery.
 
 
 JEFF’S WIFE enters.
@@ -182,7 +225,8 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          I’m saying, “Hey, I care. Go ahead.” That’s what society runs on—symbolic doors.
 
                   SUSIE
-         You want a trophy for pretending to hold a door that opens itself? What’s next, you gonna salute the elevator?
+         You want a trophy for pretending to hold a door that opens itself?
+         What’s next, you gonna salute the elevator?
 
                   LARRY
          It’s called consideration. I’m projecting politeness!
