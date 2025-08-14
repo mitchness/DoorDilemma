@@ -199,7 +199,8 @@ JEFF’S WIFE enters.
          I've never heard you mention her.
 
                 SUSIE
-         Shut up.  Anyways, she said some guy “aggressively didn’t hold the door.” Now she had to see a chiropractor!
+         Shut up.  Anyways, she said some guy “aggressively didn’t hold the door.” 
+         Now she had to see a chiropractor!
 
                 LARRY
          "Aggressively didn’t hold the door"?! That’s not even a thing!
