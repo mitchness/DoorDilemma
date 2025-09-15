@@ -224,7 +224,7 @@ JEFF’S WIFE enters.
 
          
  * Scene 3. Larry open the door for a nice, pleasant Girl Scout.  Soon another arrives around the corner, then another.  Soon, he 
-            is holding the door open for the entire troup.  This the troop leader and his strapping husband follow in the rear.  Larry
+            is holding the door open for the entire troup.  Then the troop leader and his strapping husband follow in the rear.  Larry
             tries to continue to open the door for the two of them.  The strapping man will not allow it.  Larry tries to insist.  To
             no avail.  He gives in.  The strapping man looks even more strapping as he holds the door open.  Soon another troop follows
             behind.  Larry is sandwiched between two troops of girl scouts.  Looking sheepish.
