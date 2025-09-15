@@ -230,8 +230,9 @@ JEFF’S WIFE enters.
             behind.  Larry is sandwiched between two troops of girl scouts.  Looking sheepish.
 
 
- * Scene 4. Larry enters a revolving door.  A pair of kids are in there.  Playing, having fun.  The make the door stop suddenly.  Laughing
-            Larry almost falls.  More of this.  As the kids start laughing harder and harder.  Larry has a harder and harder time.
+ * Scene 4. Larry enters a revolving door.  A pair of kids are in there.  Playing, having fun.  They make the door stop suddenly.  One of
+            the boys is laughing on his knees.  In the middle of the revolving door.  Larry almost falls.  More of this.
+            As the kids start laughing harder and harder.  Larry has a harder and harder time.
          
 
 
