@@ -214,7 +214,7 @@ Scene 1. There is a set of double doors.  Larry opens the first door for a stran
 Scene 2. Larry is in a parking car garage elevetor.  As the elevetor door opens, he lets a lady leave first.
          This leads to a door.  The lady opens the rather heavy door.  Larry quickly rushes to help her open the door, akwardly.
          This allows the lady to enter the door first.  Larry follows.  As she walks to her car, Larry is right behind her
-         (Their cars are parked together).  The farther they walk, the more she starts to get nervous.  Larry is whistling a 
+         (Their cars are parked together).  The further they walk, the more she starts to get nervous.  Larry is whistling a 
          happy tune, un-awares.  She makes a sharp right and quickly enters her car.  Larry looks on.  As she enters, Larry
          stands there, watching.  They are parked together.  Larry has parked backend-first so their doors driver side doors abut.  At this point
          Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up so Larry has to wait.
