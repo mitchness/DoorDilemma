@@ -277,7 +277,7 @@ JEFF’S WIFE enters.
           Their MOM rushes to the scene.
 
           MOM - to Larry
-          Your soooo good with kids.
+          You are soooo good with kids.
 
           MOM - to Kids
           Come on.  Let's go!
