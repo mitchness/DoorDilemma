@@ -234,9 +234,10 @@ JEFF’S WIFE enters.
           They walk toward their cars. Larry, whistling cheerfully, is right behind her. She grows visibly nervous.
 
           She makes a sharp right and quickly enters her car.  Larry looks on.  As she enters, Larry
-          stands there, watching.  They are parked together.  Larry has parked backend-first so their driver side doors abut.
-          At this point Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up so Larry has to wait.
-          As she reverses, they watch each other through the window.  Larry, blissfully happy.  Herself, close to tears.
+          stands there, watching.  They are parked together.  Larry has parked backend-first so their driver side doors
+          abut.  At this point Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up
+          so Larry has to wait.  As she reverses, they watch each other through the window.  Larry, blissfully happy.
+          Herself, close to tears.
 
           LARRY
           (under his breath)
