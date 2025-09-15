@@ -205,6 +205,33 @@ JEFF’S WIFE enters.
                 LARRY
          "Aggressively didn’t hold the door"?! That’s not even a thing!
 
+## SCENE 7 – Door Montage
+
+Scene 1. There is a set of double doors.  Larry opens the first door for a stranger.  Stranger enters.
+         Quickly juts ahead.  Slightly pushes the stranger as he opens the 2nd door.  Stranger looks at him
+         and enters the second door.  Just as Larry catches his breath, he notices a 3rd door.
+
+Scene 2. Larry is in a parking car garage elevetor.  As the elevetor door opens, he lets a lady leave first.
+         This leads to a door.  The lady opens the rather heavy door.  Larry quickly rushes to help her open the door, akwardly.
+         This allows the lady to enter the door first.  Larry follows.  As she walks to her car, Larry is right behind her
+         (Their cars are parked together).  The farther they walk, the more she starts to get nervous.  Larry is whistling a 
+         happy tune, un-awares.  She makes a sharp right and quickly enters her car.  Larry looks on.  As she enters, Larry
+         stands there, watching.  They are parked together.  Larry has parked backend-first so their doors driver side doors abut.  At this point
+         Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up so Larry has to wait.
+         As she reverses, they watch each other through the window.  Larry, blissfully happy.  Her, close to tears.
+         
+Scene 3. Larry open the door for a nice, pleasant Girl Scout.  Soon another arrives around the corner, then another.  Soon, he 
+         is holding the door open for the entire troup.  This the troop leader and his strapping husband follow in the rear.  Larry
+         tries to continue to open the door for the two of them.  The strapping man will not allow it.  Larry tries to insist.  To
+         no avail.  He gives in.  The strapping man looks even more strapping as he holds the door open.  Soon another troop follows
+         behind.  Larry is sandwiched between two troops of girl scouts.  Looking sheepish.
+
+Scene 4. Larry enters a revolving door.  A pair of kids are in there.  Playing, having fun.  The make the door stop suddenly.  Laughing
+         Larry almost falls.  More of this.  As the kids start laughing harder and harder.  Larry has a harder and harder time.
+         
+
+
+
 ## SCENE 8 – EXT. HOTEL LOBBY ENTRANCE – DAY
 LARRY, JEFF, and SUSIE are walking up to a fancy hotel. A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
 
@@ -256,7 +283,7 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          Wow. Door respect is dead.
 
 
-## SCENE 7 – INT. COFFEE SHOP – NEXT DAY
+## SCENE 9 – INT. COFFEE SHOP – NEXT DAY
 LARRY and JEFF enter. Larry opens the door for JEFF.
 
                  JEFF
