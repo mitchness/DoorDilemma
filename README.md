@@ -292,7 +292,19 @@ JEFF’S WIFE enters.
 
           The doors refuse to close.         
 
+* Scene 6 – One way door
 
+          INT. COMMUNITY CENTER – DAY
+
+          Larry and a MAN approach the same glass door.  Larry, trying to go out.  The MAN, going in.
+          Larry tries to open the door for the MAN.  He struggles.  
+
+          LARRY
+          (mouthing through the glass door.)
+          I think it might be locked.
+
+          The man opens the door.
+          The man and Larry struggle, both unsure who goes in first.
 
 ## SCENE 8 – EXT. HOTEL LOBBY ENTRANCE – DAY
 LARRY, JEFF, and SUSIE are walking up to a fancy hotel. A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
