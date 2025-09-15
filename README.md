@@ -254,11 +254,14 @@ JEFF’S WIFE enters.
 
           A whole TROOP appears, filing past him with endless thank-yous.
 
-          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. Larry makes a weak attempt
-          to keep control of the door.
+          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. Larry makes a
+          weak attempt to keep control of the door.
 
-          The Marine calmly places one massive hand on the door, effortlessly claiming dominance. Larry surrenders, sheepish.
-          Then — another Girl Scout troop comes around the corner. Larry is trapped in the middle, swallowed by sashes and merit badges.
+          The Marine calmly places one massive hand on the door, effortlessly claiming dominance. Larry
+          surrenders, sheepish.
+   
+          Then — another Girl Scout troop comes around the corner. Larry is trapped in the middle, swallowed
+          by sashes and merit badges.
 
  * Scene 4 – Revolving Door Chaos
 
