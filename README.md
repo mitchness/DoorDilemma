@@ -276,9 +276,12 @@ JEFF’S WIFE enters.
 
           Their MOM rushes to the scene.
 
-          MOM
-          Your SO good with kids.
+          MOM - to Larry
+          Your soooo good with kids.
 
+          MOM - to Kids
+          Come on.  Let's go!
+    
           Larry glares, wheezing.
 
 * Scene 5 – Elevator Duel
