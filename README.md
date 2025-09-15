@@ -277,7 +277,9 @@ JEFF’S WIFE enters.
           Their MOM rushes to the scene.
 
           MOM
-          Your so good with kids.
+          Your SO good with kids.
+
+          Larry glares, wheezing.
 
 * Scene 5 – Elevator Duel
 
@@ -303,15 +305,19 @@ JEFF’S WIFE enters.
 
           INT. COMMUNITY CENTER – DAY
 
-          Larry and a MAN approach the same glass door.  Larry, trying to go out.  The MAN, going in.
-          Larry tries to open the door for the MAN.  He struggles.  
+          Larry and a MAN approach opposite sides of the same glass door. Larry tries to go out, the MAN in.
+
+          Larry tugs, confused.
 
           LARRY
-          (mouthing through the glass door.)
-          I think it might be locked.
+          (mouthing through the glass)
+          I think it’s locked.
 
-          The man opens the door.
-          The man and Larry struggle, both unsure who goes in first.
+          The Man pulls — it opens easily.
+
+          Both hesitate, fumbling over who should go first.
+
+          The standoff drags on until the door starts to slowly close on them both.
 
 ## SCENE 8 – EXT. HOTEL LOBBY ENTRANCE – DAY
 LARRY, JEFF, and SUSIE are walking up to a fancy hotel. A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
