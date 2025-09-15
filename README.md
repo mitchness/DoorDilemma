@@ -207,33 +207,90 @@ JEFF’S WIFE enters.
 
 ## SCENE 7 – Door Montage
 
- * Scene 1. There is a set of double doors.  Larry opens the first door for a stranger.  Stranger enters.
-            Larry quickly juts ahead to open the second door.  He slightly pushes the stranger as he opens
-            the 2nd door.  Stranger looks at him with an uncomfortable smile and enters the second door.  
-            Just as Larry catches his breath, he notices a 3rd door.
+ * Scene 1 – Triple Door Gauntlet
+
+          INT. OFFICE BUILDING – DAY
+
+          Larry holds open a set of double doors for a STRANGER. The Stranger smiles and steps through.
+          Before the Stranger can get the second door, Larry darts ahead, nearly shoving them aside to grab it first.
+          The Stranger gives a stiff, uncomfortable smile. Larry exhales, proud of himself —
+          - only to notice... a THIRD DOOR.
+
+          He stares at it, exhausted. As he rushes to open the third door, it WHOOSHES open automatically.
+
+          LARRY
+          (under his breath)
+          Oh, come on.
 
 
- * Scene 2. Larry is in a parking car garage elevetor.  As the elevetor door opens, he lets a lady leave first.
-            This leads to a door.  The lady opens the rather heavy door.  Larry quickly rushes to help her open the door, akwardly.
-            This allows the lady to enter the door first.  Larry follows.  As she walks to her car, Larry is right behind her
-            (Their cars are parked together).  The further they walk, the more she starts to get nervous.  Larry is whistling a 
-            happy tune, un-awares.  She makes a sharp right and quickly enters her car.  Larry looks on.  As she enters, Larry
-            stands there, watching.  They are parked together.  Larry has parked backend-first so their driver side doors abut.  At this point
-            Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up so Larry has to wait.
-            As she reverses, they watch each other through the window.  Larry, blissfully happy.  Herself, close to tears.
+ * Scene 2 – Garage Stalker Vibes
 
+          INT. PARKING GARAGE – DAY
+
+          Larry exits an elevator, gesturing politely for a WOMAN to go first. She smiles faintly.
+
+          She pushes open a heavy garage door. Larry rushes in awkwardly to “help,” letting her go first again.
+
+          They walk toward their cars. Larry, whistling cheerfully, is right behind her. She grows visibly nervous.
+
+          She makes a sharp right and quickly enters her car.  Larry looks on.  As she enters, Larry
+          stands there, watching.  They are parked together.  Larry has parked backend-first so their driver side doors abut.
+          At this point Larry starts to get impatient, while the lady is at a mild panic.  She quickly backs up so Larry has to wait.
+          As she reverses, they watch each other through the window.  Larry, blissfully happy.  Herself, close to tears.
+
+          LARRY
+          (under his breath)
+          Nice lady.
          
- * Scene 3. Larry open the door for a nice, pleasant Girl Scout.  Soon another arrives around the corner, then another.  Soon, he 
-            is holding the door open for the entire troup.  Then the troop leader and his strapping husband follow in the rear.  Larry
-            tries to continue to open the door for the two of them.  The strapping man will not allow it.  Larry tries to insist.  To
-            no avail.  He gives in.  The strapping man looks even more strapping as he holds the door open.  Soon another troop follows
-            behind.  Larry is sandwiched between two troops of girl scouts.  Looking sheepish.
+ * Scene 3 – Girl Scout Ambush
 
+          INT. COMMUNITY CENTER – DAY
 
- * Scene 4. Larry enters a revolving door.  A pair of kids are in there.  Playing, having fun.  They make the door stop suddenly.  One of
-            the boys is laughing on his knees.  In the middle of the revolving door.  Larry almost falls.  More of this.
-            As the kids start laughing harder and harder.  Larry has a harder and harder time.
-         
+          Larry holds the door open for a smiling GIRL SCOUT. Then another. Then another.
+
+          A whole TROOP appears, filing past him with endless thank-yous.
+
+          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. Larry makes a weak attempt
+          to keep control of the door.
+
+          The Marine calmly places one massive hand on the door, effortlessly claiming dominance. Larry surrenders, sheepish.
+          Then — another Girl Scout troop comes around the corner. Larry is trapped in the middle, swallowed by sashes and merit badges.
+
+ * Scene 4 – Revolving Door Chaos
+
+          INT. HOTEL LOBBY – DAY
+
+          Larry enters a revolving door with TWO KIDS inside. They giggle and push too hard, making it spin erratically.
+
+          Larry stumbles, nearly falls. One kid drops to his knees, laughing hysterically, blocking the exit.
+
+          Larry tries to time his escape but keeps getting spun back inside.
+          Finally, he staggers out, hair a mess. The kids press their faces to the glass, waving.
+
+          Their MOM rushes to the scene.
+
+          MOM
+          Your so good with kids.
+
+* Scene 5 – Elevator Duel
+
+          INT. OFFICE BUILDING – LOBBY – DAY
+
+          Larry and another MAN both hold the “door open” button in an elevator, insisting strangers come in.
+
+          One more. Then another. And another. The elevator grows packed and groaning.
+
+          The alarm DINGS. Everyone stares, annoyed.
+  
+          Larry and the Man glare at each other, hands still firmly on the button.
+
+          LARRY
+          I’m just being polite.
+
+          MAN
+          So am I.
+
+          The doors refuse to close.         
 
 
 
