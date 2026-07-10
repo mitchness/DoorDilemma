@@ -45,13 +45,13 @@ The woman backs up a foot so she can lean out her window.
 
 Larry throws his hands up.
 
-             ATTENDANT (V.O.)
+                 ATTENDANT (V.O.)
          Well... I can let you in, but next time you'll need to stop by the office and update your permit.
 
 The gate rises.
 She smiles.
 
-             WOMAN
+                WOMAN
          Thank you so much!
 
 She drives inside.
