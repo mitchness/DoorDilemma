@@ -31,18 +31,15 @@ A long pause.
 
 Finally—
 
-ATTENDANT (V.O.)
-Parking Services.
+                ATTENDANT (V.O.)
+         Parking Services.
 
-WOMAN
-Hi! It's me again. The machine won't let me in.
+                WOMAN
+         Hi! It's me again. The machine won't let me in.
 
 Larry groans quietly.
-
 The speaker is too far away.
-
 The woman backs up a foot so she can lean out her window.
-
 Larry throws his hands up.
 
                  ATTENDANT (V.O.)
