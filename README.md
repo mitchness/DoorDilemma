@@ -1,34 +1,176 @@
 # DoorDilemma
 Screenplay for a "Curb Your Enthusiasm" episode
 
-## SCENE 1 – EXT. DENTIST BUILDING – MORNING
+## SCENE 1 – EXT. DENTIST PARKING GARAGE – MORNING
 
+Larry pulls into the entrance behind a sedan.
+
+The gate stays down.
+
+The woman in front scans a ticket.
+
+BEEP.
+
+ACCESS DENIED.
+
+She tries again.
+
+BEEP.
+
+Nothing.
+
+Larry sighs.
+
+Checks the dashboard clock.
+
+Taps the steering wheel.
+
+The woman presses the HELP button.
+
+A long pause.
+
+Finally—
+
+ATTENDANT (V.O.)
+Parking Services.
+
+WOMAN
+Hi! It's me again. The machine won't let me in.
+
+Larry groans quietly.
+
+The speaker is too far away.
+
+The woman backs up a foot so she can lean out her window.
+
+Larry throws his hands up.
+
+             ATTENDANT (V.O.)
+         Well... I can let you in, but next time you'll need to stop by the office and update your permit.
+
+The gate rises.
+She smiles.
+
+             WOMAN
+         Thank you so much!
+
+She drives inside.
+
+Larry immediately pulls up, grabs his ticket, and speeds through.
+
+**INT. PARKING GARAGE**
+
+Larry quickly catches up...
+
+...because she's driving ten miles an hour.
+
+She slows almost to a stop at every corner.
+Larry grips the steering wheel.
+Finally...
+
+She parks.
+Larry parks two spaces away.
+
+**INT. GARAGE LOBBY**
+
+Larry power walks toward the building entrance.
+
+He reaches the door first.
+
+He notices the woman several steps behind.
+
+He hesitates...
+
+...then holds the door.
+
+She beams.
+
+                WOMAN
+         Oh! Thank you!
+
+Instead of walking through...
+
+...she stops beside him.
+
+                WOMAN
+         You know, I have the darndest luck with that machine.
+
+Larry forces a polite smile.
+
+                WOMAN (CONT'D)
+         Ever since they installed the new one, it just doesn't like me.
+
+She laughs.
+Lightly pats Larry's arm.
+
+                WOMAN
+         I swear that machine hates me.
+
+Larry gives a quick chuckle.
+
+                LARRY
+         Maybe.
+
+She keeps talking as they walk.
+
+                WOMAN
+         Last week it thought it was expired...
+
+Before she finishes...
+
+DING.
+
+The elevator doors begin closing.
+Larry reaches out—
+Too late.
+The doors slide shut.
+
+Silence.
+The woman shrugs.
+
+                WOMAN
+         Oh well.
+         We'll get the next one.
+
+Larry watches the elevator disappear.
+A beat.
+
+                LARRY
+         Maybe the elevator hates me.
+
+She laughs.
+Big mistake.
+She launches into another story.
+
+                WOMAN
+         Oh! Don't even get me started on elevators...
+
+Larry realizes what he's done.
+
+**INT. DENTIST OFFICE - MOMENTS LATER**
+
+The elevator doors open.
+
+The woman is still talking as they walk through the lobby.
+
+Larry spots the receptionist.
+
+He smiles politely.
+
+                LARRY
+         Well... nice meeting you.
+
+He slips away toward the counter.
+
+The woman waves cheerfully.
+
+Still talking.
+
+Larry checks in.
+
+The audience can still hear her voice in the background as we cut to the next scene.
   LARRY DAVID walks briskly toward a medical building, slightly late. He reaches for the door, opens it... then pauses.
   
-  Far down the path, a SLOW OLD MAN (80s) is approaching. Larry hesitates. Moral gears turn.
-  
-  He sighs and holds the door.
-
-
-                LARRY (muttering)
-        This guy’s moving like he’s underwater.
-
-The man finally reaches the door.
-
-                OLD MAN
-        Thank you.
-
-  
-He shuffles inside. Larry is stuck behind him, crawling pace. They reach the elevators—doors closing.
-  
-                LARRY
-         Hey! Can you hold the door—!
-  
-Too late. The elevator is gone.
-  
-                LARRY (under his breath)
-         Unbelievable.
-
 
 ## SCENE 2 – INT. DENTIST OFFICE – MOMENTS LATER
 LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
