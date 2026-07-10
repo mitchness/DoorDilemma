@@ -184,7 +184,7 @@ LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
          You are in luck, though.  We had a cancellation. But that's not until an hour.
 
                 LARRY (gesturing behind him)
-         I got stuck Mrs. SloMo.  You don't understand.
+         I got stuck behind Mrs. Slow-Mo.  You don't understand.
 
                 DENTIST (O.S.)
          We’ll do the cleaning today. Come back next week for the fillings—we’re behind.
