@@ -7,7 +7,7 @@ Larry pulls into the entrance behind a sedan.
 
 The gate stays down.
 
-The woman in front scans a ticket.
+The woman (60s) in front scans a ticket.
 
 BEEP.
 
