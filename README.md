@@ -182,7 +182,7 @@ LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
          You are in luck, though.  We had a cancellation. But that's not until an hour.
 
                 LARRY (gesturing behind him)
-         I got stuck behind a human speed bump. Ever try walking behind molasses with arthritis? That’s what I did!
+         I got stuck Mrs. SloMo.  You don't understand.
 
                 DENTIST (O.S.)
          We’ll do the cleaning today. Come back next week for the fillings—we’re behind.
@@ -200,7 +200,7 @@ LARRY walks toward his car, checks his watch—he’s missed lunch. Then spots a
          Expired twenty minutes ago.
 
                 LARRY
-         Twenty?! That’s Slow-Mo back there! He’s costing me money now!
+         Twenty?! That’s Slow-Mo back there! She’s costing me money now!
 
 ## SCENE 4 – INT. DENTIST OFFICE – NEXT WEEK
 LARRY returns. A new day.
