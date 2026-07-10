@@ -140,8 +140,10 @@ Big mistake.
 She launches into another story.
 
                 WOMAN
-         Oh! Don't even get me started on elevators...
-
+         Oh, don't even get me started on elevators.
+         (laughs)
+         Honestly, anything with a door seems to have it out for me.
+         
 Larry realizes what he's done.
 
 **INT. DENTIST OFFICE - MOMENTS LATER**
