@@ -252,9 +252,9 @@ That's when everyone notices him.
          I wasn't that far away.
 
                   LARRY
-         Maybe not to you.
-
-         To me, you were far.  You crossed the threshold.
+         To me, you were.  
+         
+         You crossed the threshold.
 
                   DENTIST
          Larry...
@@ -272,9 +272,9 @@ That's when everyone notices him.
                   LARRY
          Of course.
 
-         Well... it's not exactly a cutoff.
+         Well... not exactly a cutoff.
 
-         It's more of a sliding scale.
+         More of a sliding scale.
 
                   DENTIST
          A sliding scale?
@@ -299,8 +299,11 @@ That's when everyone notices him.
          You calculated whether or not to hold the door?
 
                   LARRY
-         I didn't use a calculator — there was instinctual math happening. 
-         It’s a real-time ethical math equation!
+         I didn't use a calculator
+         
+         There was instinctual math happening. 
+         
+         It’s a real-time ethical calculation.
          
                   RECEPTIONIST
          And the solution was “let the door crush her”?
@@ -312,14 +315,15 @@ That's when everyone notices him.
          It’s all math.        
          You account for distance, walking speed, athleticism.
 
+         And the door was one of those slow-shutters.
+
                    RECEPTIONIST
-         I'm athletic.  I go to Pilattes.
+         I'm athletic.  
+         I do Pilattes.
 
                   LARRY
-         Ehhh.
-
-         But the door was one of those slow-shutters.
-
+         Debatable.
+         
                 DENTIST
          Larry...
 
@@ -330,8 +334,10 @@ That's when everyone notices him.
          You couldn’t have held it five more seconds?
 
                 LARRY
-         Five seconds? You’re assuming she walks like a sprinter!
-         What if I wait five, then ten?
+         That's how it starts.
+         Five becomes ten.
+         Ten becomes fifteen.
+         
          Then we’re back to Slow-Mo from last week!
          
                 WOMAN
