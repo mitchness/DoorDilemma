@@ -177,7 +177,7 @@ The audience can still hear her voice in the background as we cut to the next sc
 LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
 
                 RECEPTIONIST
-         Oh.  Mr. David. We gave your slot away. You were ten minutes late.  So...
+         Oh.  Mr. David. We just gave your slot away. You were ten minutes late.  So...
 
                 LARRY
          Ten minutes?! That’s nothing! Ten minutes is not late, that’s... human.
