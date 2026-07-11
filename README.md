@@ -98,8 +98,9 @@ Larry forces a polite smile.
          Ever since they installed the new one, it just doesn't like me.
 
 She laughs.
-Lightly pats Larry's arm.  She would rather stop in the middle of the
-door well and chat rather than walking through to the elevator.
+Lightly pats Larry's arm.  
+She would rather stop in the middle of the door well and chat rather
+than walking through to the elevator.
 
                 WOMAN
          I swear that machine hates me.
