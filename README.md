@@ -341,7 +341,9 @@ That's when everyone notices him.
          Then we’re back to Slow-Mo from last week!
          
                 WOMAN
-         Well now I going to need physical therapy — thanks to your little algorithm.
+         Well now I'm going to need physical therapy...
+
+         Thanks to your little algorithm.
 
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
