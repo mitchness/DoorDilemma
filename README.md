@@ -718,7 +718,7 @@ LARRY and JEFF enter. Larry opens the door for JEFF.
                  LARRY
          I’ve matured. I’m a new man. A door saint.
 
-Then — a MAN (30s) way down the block sees Larry holding the door... and starts jogging.
+Then — a MAN (30s) way down the block sees Larry holding the door... and starts speed walking.
 
                 LARRY (sighs)
          Here we go...
@@ -726,13 +726,15 @@ Then — a MAN (30s) way down the block sees Larry holding the door... and start
 The man speeds up—then TRIPS HARD. Falls. Screams.
 
                 MAN
-         Ahhh! My ankle! Why would you hold the door that long!?
+         Ahhh! My ankle! Why would you hold the door like that!?
 
                 LARRY
-         I was being nice! I can’t win!
+         Like what!?
+         I was being nice! 
+         I can’t win!
 
                 MAN
-         You pressured me! I had to run! It’s door guilt!  You gave me door guilt.
+         You pressured me!  I had to speed up!  It’s door guilt!  You gave me door guilt.
 
                 LARRY
          What do you mean door-guilt.
