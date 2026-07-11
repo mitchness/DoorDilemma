@@ -455,7 +455,7 @@ That's when everyone notices him.
          I do Pilattes.
 
                   LARRY
-         Debatable.
+         Ehh.  Let's not over-sell Pilattes.
          
                 DENTIST
          Larry...
