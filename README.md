@@ -194,17 +194,135 @@ LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
                 LARRY (sarcastic)
          Perfect. Two appointments. Love that. Super efficient.
 
-## SCENE 3 – EXT. PARKING LOT – LATER
-LARRY walks toward his car, checks his watch—he’s missed lunch. Then spots a METER MAID writing a ticket.
+## SCENE 3 – EXT. PARKING GARAGE – LEAVING
+
+Larry pulls up to the exit gate.
+
+He inserts his parking ticket.
+
+The screen flashes.
+
+     AMOUNT DUE: $18.00
+
+Larry freezes.
 
                 LARRY
-         Hey hey hey! I’m here! You see me coming!
+         Eighteen dollars?!
 
-                METER MAID
-         Expired twenty minutes ago.
+                MACHINE (A cheerful, overly polite automated voice)
+         Thank you for parking with us.
+
+         You have exceeded your allotted validated parking time.
+
+         Additional parking charges will now apply.
+
 
                 LARRY
-         Twenty?! That’s Slow-Mo back there! She’s costing me money now!
+         Additional—
+
+         I wasn't shopping!
+         I got trapped!
+
+He looks back toward the building.
+
+                LARRY
+         Slow-Mo!
+
+
+The HELP button is just out of reach.
+
+Larry stretches.
+Can't quite make it.
+
+He sighs...
+
+...puts the car in reverse.
+
+Backs up six inches.
+
+Exactly like the woman did earlier.
+
+A horn BLARES.
+
+Larry looks in his mirror.
+
+The driver behind him throws both hands in the air.
+Taps his steering wheel.
+Looks at his watch.
+
+Exactly what Larry did earlier.
+
+
+                 LARRY (Talking to Attendant)
+         18 dollars!
+
+                 ATTENDANT (V.O.)
+         Parking Services.
+
+                 LARRY
+         18 dollars!
+
+                ATTENDANT (V.O.)
+         Stall eighteen?
+
+                LARRY
+         No!
+
+         Dollars!
+
+         Eighteen dollars!
+
+
+                 ATTENDANT (V.O.)
+         18 dollors?
+
+                 LARRY
+         Yes, 18 dollars!
+         You're charging me 18 dollars.
+         Isn't that a bit outrageous.
+
+                ATTENDANT (V.O.)
+         One moment while I look up your XXXKXXKXKXK.  (The speaker gives out)
+
+
+Beat.
+
+Larry drums his fingers.
+
+Beat.
+
+The driver behind honks again.
+
+Beat.
+
+            ATTENDANT (V.O.)
+     Thank you for waiting.
+
+Larry rolls his eyes.
+
+            ATTENDANT (V.O.)
+     It appears you exceeded your validated parking time.
+     
+            LARRY
+     I know.  I know.  You see.
+
+     I was delayed...
+
+     by Slow-Mo!
+
+
+Larry finally pays.
+
+The gate opens.
+
+He starts driving...
+
+...and immediately catches up to the same woman.
+
+She's waiting for a pedestrian to cross.
+
+Larry slumps over the steering wheel.
+
 
 ## SCENE 4 – INT. DENTIST OFFICE – NEXT WEEK
 LARRY returns. A new day.
