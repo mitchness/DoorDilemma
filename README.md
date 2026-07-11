@@ -263,7 +263,7 @@ Exactly what Larry did earlier.
          18 dollars!
 
                 ATTENDANT (V.O.)
-         Stall eighteen?
+         I'm sorry.  Stall eighteen?
 
                 LARRY
          No!
@@ -272,18 +272,26 @@ Exactly what Larry did earlier.
 
          Eighteen dollars!
 
+                 ATTENDANT (V.O.)
+         Oh...
+         Eighteen dollars.
+
+The attendant has finally figured out what Larry is talking about
 
                  ATTENDANT (V.O.)
-         18 dollors?
-
+         How can I help you?
+     
                  LARRY
          Yes, 18 dollars!
-         You're charging me 18 dollars.
+         You can start by explaining why it's eighteen dollars!
          Isn't that a bit outrageous.
 
                 ATTENDANT (V.O.)
-         One moment while I look up your XXXKXXKXKXK.  (The speaker gives out)
+         One moment while I retrieve your parking KXKXKXXK. (Speaker breaks up)
 
+                 LARRY
+         What?
+         Parking what?
 
 Beat.
 
@@ -295,20 +303,25 @@ The driver behind honks again.
 
 Beat.
 
-            ATTENDANT (V.O.)
-     Thank you for waiting.
+                ATTENDANT (V.O.)
+         Thank you for waiting.
 
 Larry rolls his eyes.
 
-            ATTENDANT (V.O.)
-     It appears you exceeded your validated parking time.
+                ATTENDANT (V.O.)
+         It appears you exceeded your validated parking time.
      
-            LARRY
-     I know.  I know.  You see.
+                LARRY
+         I know.  I know.
+         I was delayed...
 
-     I was delayed...
+         by Slow-Mo!
 
-     by Slow-Mo!
+                ATTENDANT (V.O.)
+         You were XXKXKXK by what?
+     
+                LARRY
+         By Slow-Mo!
 
 
 Larry finally pays.
