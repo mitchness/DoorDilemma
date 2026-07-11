@@ -385,7 +385,7 @@ That's when everyone notices him.
          I wasn't that far away.
 
                   LARRY
-         To me, you were.  
+         You were.  
          
          You crossed the threshold.
 
