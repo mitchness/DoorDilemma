@@ -135,7 +135,7 @@ Larry watches the elevator disappear.
 A beat.
 
                 LARRY
-         Maybe the elevator hates me.
+         Maybe the elevator hates ME.
 
 She laughs.
 Big mistake.
