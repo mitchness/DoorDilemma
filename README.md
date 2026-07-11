@@ -240,22 +240,60 @@ That's when everyone notices him.
          You?!
 
                   LARRY
-         Yes, me. But in my defense — and I say this with all due respect —
-         you were a speck on the horizon. A silhouette. Maybe a mirage!
+         Yes, me.
+
+         I don't know how long you expect me to stand there holding the door.
+
+         (To the Dentist)
+         She was way, WAY behind me.
+         She was practically a speck on the horizon.
+
+                  WOMAN
+         I wasn't that far away.
+
+                  LARRY
+         Maybe not to you.
+
+         To me, you were far.  You crossed the threshold.
 
                   DENTIST
          Larry...
 
                   LARRY
-         Look, I’ve got a system, okay? - a door timing algorithm. You account for distance, 
-         walking speed, athleticism, wind resistance—
+         No, seriously.
 
-                   RECEPTIONIST
-         Wind resistance?
+         There has to be a cutoff, right?
+
+         Otherwise you're just standing there all day waiting for people.
+
+                  RECEPTIONIST
+         A cutoff?
 
                   LARRY
-         Yes, if she’s carrying a tote bag or fighting a headwind, you shave off seconds.
-         It’s all math.
+         Of course.
+
+         Well... it's not exactly a cutoff.
+
+         It's more of a sliding scale.
+
+                  DENTIST
+         A sliding scale?
+
+                  LARRY
+         Depending on age... mobility...
+         whether they're carrying something...
+
+         It's—
+
+                  WOMAN
+         You have rules?
+
+                  LARRY
+         They're more like guidelines.
+
+         ...Okay, they're rules.
+
+         Look, I've got a door timing algorithm.      
 
                   WOMAN
          You calculated whether or not to hold the door?
@@ -270,6 +308,16 @@ That's when everyone notices him.
                   LARRY
          No, look. If the door closes... naturally... by the time she gets to the door
          — well then I’m in the clear.
+
+         It’s all math.        
+         You account for distance, walking speed, athleticism.
+
+                   RECEPTIONIST
+         I'm athletic.  I go to Pilattes.
+
+                  LARRY
+         Ehhh.
+
          But the door was one of those slow-shutters.
 
                 DENTIST
@@ -287,7 +335,7 @@ That's when everyone notices him.
          Then we’re back to Slow-Mo from last week!
          
                 WOMAN
-         Well now I need physical therapy — thanks to your little algorithm.
+         Well now I going to need physical therapy — thanks to your little algorithm.
 
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
