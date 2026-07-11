@@ -473,6 +473,12 @@ That's when everyone notices him.
          
          Then we’re back to Slow-Mo from last week!
          
+                DENTIST
+         Back to what?
+
+                  LARRY
+         Slow-Mo.
+
                 WOMAN
          Well now I'm going to need physical therapy...
 
