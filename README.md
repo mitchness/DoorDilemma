@@ -171,7 +171,17 @@ Still talking.
 
 Larry checks in.
 
-The audience can still hear her voice in the background as we cut to the next scene.
+The audience can still hear her voice in the hallway as we cut to the next scene.
+
+                WOMAN (O.S.)
+     Oh, hi!
+
+     That machine at the entrance...
+     I think it still hates me.
+
+     (laughs)
+
+
   LARRY DAVID walks briskly toward a medical building, slightly late. He reaches for the door, opens it... then pauses.
   
 
@@ -349,7 +359,8 @@ Larry slumps over the steering wheel.
 ## SCENE 4 – INT. DENTIST OFFICE – NEXT WEEK
 LARRY returns. A new day.
 
-He reaches for the door—sees a WOMAN (40s) approaching in the distance. A real distance. Football field far.
+He reaches for the door.  He sees a WOMAN (40s) approaching in the distance. 
+A real distance. Quite far.
 
 He eyes her... then shrugs and lets the door go. It closes behind him.
 
@@ -372,7 +383,8 @@ RECEPTIONIST rushes over. The DENTIST peeks out.
          This short, wiry guy... kinda hunched. Like a neurotic meerkat.
 
 Larry quickly picks up a magazine and tries to hide his face.  He looks quizidly.  
-Turns it around to look at the magazine cover.  It says "Womens World".  The main article is titled “10 Foods That Will Ruin Your Gums.”
+Turns it around to look at the magazine cover.  It says "Womens World".  
+The main article is titled “10 Foods That Will Ruin Your Gums.”
 That's when everyone notices him.
 
                   LARRY
@@ -436,7 +448,7 @@ Everyone pauses.
          A sliding scale?
 
                   LARRY
-         Depending on age... mobility...
+         Depending on mobility...
          whether they're carrying something...
 
          It's—
@@ -565,15 +577,33 @@ JEFF’S WIFE enters.
          Who are you talking about?
 
                 JEFF
-         Some lady who hurt her shoulder.
-
-                SUSIE
-         Wait... Sandra? Sandra with the Pilates place?
+         Some lady Larry ran into.
 
                 LARRY
-         She does Pilates? That shoulder didn’t look flexible to me.
+         I didn't run into her.  The door ran into her.
+         Well, she ran into the door.
+         
+                JEFF
+         Apparently she hurt her shoulder.
+
+                LARRY
+         She said she does Pilates but that shoulder didn’t look flexible to me.
 
                 SUSIE
+         Wait... Sandra? 
+         You're talking about Sandra.  
+         Sandra from Divine Pilates?
+
+                SUSIE
+         That's the pilates studio I go to.
+
+                LARRY
+         You do pilates?
+         
+                SUSIE
+         Shut up.       
+         
+         She's an instructor there.
          She’s my friend, Larry!
 
                 LARRY
