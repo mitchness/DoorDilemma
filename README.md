@@ -450,7 +450,10 @@ That's when everyone notices him.
          And the solution was “let the door crush her”?
 
                   LARRY
-         No, look. It simple really.  
+         No, look.
+
+         It's actually pretty simple.         
+         
          If the door closes... naturally... by the time she gets to the door
          — well then I’m in the clear.
 
