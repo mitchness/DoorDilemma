@@ -284,6 +284,8 @@ Larry waits.
 Neither says anything.
 
 Finally:
+
+
                  ATTENDANT (V.O.)
          How can I help you?
      
