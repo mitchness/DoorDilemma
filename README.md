@@ -877,14 +877,100 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
                 LARRY (pouting)
          Wow. Door respect is dead.
 
-LARRY, JEFF, and SUSIE enter the studio.
 
-                PILATES INSTUCTOR SUBSTITUTE
-         Hello everyone.  Let's start.
 
-         I just want to anounce that Sandra will still not be able to join us.
-         Her shoulder has still not mended.
+                PILATES INSTRUCTOR
+         Before we start...
 
+         Sandra will still not be joining us today.
+
+         Her shoulder is still recovering.
+
+Everyone reacts.
+
+                CLASS MEMBER
+         Oh no.
+
+                ANOTHER CLASS MEMBER
+         Poor Sandra.
+
+                CLASS MEMBER
+         Bless her heart.
+
+Larry shifts uncomfortably.
+He knows exactly why.
+
+We show a montage of Larry and Jeff in strange Pilates poses.       
+Larry takes every pose way too seriously.
+Everyone breathes calmly.
+
+Larry inhales deeply...
+
+then forcefully exhales.
+
+WHOOOOOOOSH.
+
+Like a small air conditioner turning on.
+
+Jeff looks over.
+
+                JEFF
+         Are you okay?
+
+                LARRY
+         I'm breathing.
+         
+                PILATES INSTRUCTOR
+         And hold...
+
+Larry is shaking violently.
+
+                PILATES INSTRUCTOR
+                
+         Five more seconds.
+
+                LARRY
+         Five?!
+
+                PILATES INSTRUCTOR
+         Ten seconds.
+
+                LARRY
+         That's how it starts.
+         Five becomes ten.
+         Ten becomes ...
+
+Larry's hip goes out.
+
+                LARRY
+         Ahhhh!  
+         My hip!
+
+                PILATES INSTRUCTOR
+         Are you okay?
+
+                LARRY
+         I was okay.
+
+         Then there was a five-second extension.
+         
+
+EXT. PILATES STUDIO - LATER
+
+Larry exits slowly.
+
+Very slowly.
+
+Jeff and Susie walk ahead.
+
+Larry struggles to catch up.
+
+Susie holds the door for Larry.
+
+                  SUSIE
+         Come on Slow-Mo.
+         
+         
 ## SCENE 9 – INT. COFFEE SHOP – NEXT DAY
 LARRY and JEFF enter. Larry opens the door for JEFF.
 
