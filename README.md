@@ -568,8 +568,15 @@ LARRY tells the story to his AGENT (JEFF).
          Teases you like it’s staying open... then snaps shut like a bear trap.
          
                 JEFF
-         Those are the worst.  Totally unpredictable.  Mechanical treachery.
+         Those are the worst.
 
+         You think you have time... then suddenly you don't.   
+
+                LARRY
+         Exactly!
+
+         That's the trap.
+         
 
 JEFF’S WIFE enters.
 
@@ -610,12 +617,86 @@ JEFF’S WIFE enters.
          I've never heard you mention her.
 
                 SUSIE
-         Shut up.  Anyways, she said some guy “aggressively didn’t hold the door.” 
+         Shut up.  
+         Anyways, she said some guy “aggressively didn’t hold the door.” 
+
+                LARRY
+         "Aggressively didn’t hold the door"?!
+         
+                SUSIE
+         Those were her words.
+
+                LARRY
+         That’s not even a thing!
+
+                SUSIE
+         It's a thing.       
          Now she had to see a chiropractor!
 
                 LARRY
-         "Aggressively didn’t hold the door"?! That’s not even a thing!
+         A little more flexibility.
+         A little more mobility.
 
+         That door situation never happens.       
+
+                 SUSIE
+         You realize she teaches Pilates, right?
+         
+                 LARRY
+         Apparently not enough.
+         And let's not over-sell Pilattes.
+
+                 SUSIE
+         You don't even know what Pilates is.
+         
+                LARRY
+         I know what it isn't.
+
+         It's not athletic.
+
+                 SUSIE
+         Excuse me?
+
+                LARRY
+         I mean, it's stretching.
+
+         There's stretching, there's breathing...
+
+         Where's the exertion?
+
+                SUSIE
+         You have no idea what you're talking about.
+
+                LARRY
+         I have a pretty good idea.
+
+                SUSIE
+         Great.
+
+         Come to a class with me.
+
+                LARRY
+         Why?
+
+                SUSIE
+         So you can see what it actually takes.
+
+                LARRY
+         I know what it takes.
+
+                SUSIE
+         Okay.
+         Then you'll have no problem.
+
+                LARRY
+         No.
+
+         I mean...
+
+         I could.
+
+         I just don't need to.
+         
 ## SCENE 7 – Door Montage
 
  * Scene 1 – Triple Door Gauntlet
