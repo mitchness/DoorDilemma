@@ -40,7 +40,8 @@ Finally
 
 Larry groans quietly.
 The speaker is too far away.
-The woman backs up a foot so she can lean out her window.
+The woman backs her car up (struggling with the shifter) so she can lean out her window.
+
 Larry throws his hands up.
 
                  ATTENDANT (V.O.)
