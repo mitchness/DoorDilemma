@@ -157,20 +157,19 @@ The elevator doors open.
 
 The woman is still talking as they walk through the lobby.
 
-Larry spots the receptionist.
+Larry spots the door to the dentist.
 
 He smiles politely.
 
                 LARRY
          Well... nice meeting you.
 
-He slips away toward the counter.
+He wants to open the door but she's in the way just a tiny bit.  
+
+Larry opens the dentist door just a sliver (no room) and squeezes through.
+He slips away into the dentist office.
 
 The woman waves cheerfully.
-
-Still talking.
-
-Larry checks in.
 
 The audience can still hear her voice in the hallway as we cut to the next scene.
 
@@ -182,9 +181,7 @@ The audience can still hear her voice in the hallway as we cut to the next scene
 
      (laughs)
 
-
-He reaches for the door, opens it...
-  
+ 
 ## SCENE 2 – INT. DENTIST OFFICE – MOMENTS LATER
 LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
 
