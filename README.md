@@ -805,19 +805,22 @@ JEFF’S WIFE enters.
 
           INT. COMMUNITY CENTER – DAY
 
-          Larry and a MAN approach opposite sides of the same glass door. Larry tries to go out, the MAN in.
+          Larry and a WOMAN arrive at opposite sides of the same glass door.
+          Larry is exiting. She's entering.
 
-          Larry tugs, confused.
+          They both hesitate.
+          After an awkward beat, Larry commits..
+          Larry insists on holding the door.
 
-          LARRY
-          (mouthing through the glass)
-          I think it’s locked.
+          Unfortunately, it opens outward.
+          To hold it for her, Larry has to step into the doorway and brace the heavy door open with one arm.
 
-          The Man pulls — it opens easily.
+          He's now standing exactly where she needs to walk.
 
-          Both hesitate, fumbling over who should go first.
+          She awkwardly tries to squeeze past him.
+          Larry strains to keep the door open.
 
-          The standoff drags on until the door starts to slowly close on them both.
+          The door slowly begins closing on both of them.
 
  
 
