@@ -276,8 +276,13 @@ Exactly what Larry did earlier.
          Oh...
          Eighteen dollars.
 
-The attendant has finally figured out what Larry is talking about
+The attendant waits.
 
+Larry waits.
+
+Neither says anything.
+
+Finally:
                  ATTENDANT (V.O.)
          How can I help you?
      
