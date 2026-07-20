@@ -862,24 +862,12 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
                   SUSIE
          You’re projecting something, all right.
 
-                  JEFF
-         You're play-acting courtesy for a robot, Larry.
 
-                  LARRY
-         It’s a gesture! The world needs gestures! What are we without gestures?
-
-                  SUSIE
-         Human beings with common sense.
-
-                  LARRY
-         No. We’re animals. Doorless animals.
-
-                LARRY (pouting)
-         Wow. Door respect is dead.
-
+LARRY, JEFF and SUSIE enter the room.
 
 
                 PILATES INSTRUCTOR
+         Hello everyone.
          Before we start...
 
          Sandra will still not be joining us today.
