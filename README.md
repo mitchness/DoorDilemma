@@ -964,7 +964,7 @@ Susie holds the door for Larry.
          
          
 ## SCENE 9 – INT. COFFEE SHOP – NEXT DAY
-LARRY and JEFF enter. Larry opens the door for JEFF.
+LARRY and JEFF enter. Larry (with a limp) opens the door for JEFF.
 
                  JEFF
          Wow. What a gentleman.
@@ -980,21 +980,26 @@ Then — a MAN (30s) way down the block sees Larry holding the door... and start
 The man speeds up—then TRIPS HARD. Falls. Screams.
 
                 MAN
-         Ahhh! My ankle! Why would you hold the door like that!?
+         Ahhh! My ankle!
 
+         Why'd you hold the door?!
+     
                 LARRY
-         Like what!?
+         Because that's what people are supposed to do!
          I was being nice! 
-         I can’t win!
 
                 MAN
-         You pressured me!  You saw how far I was?!
-         I had to speed up!  It’s door guilt!  You gave me door guilt.
+         You saw how far away I was!
+         You pressured me!
 
-                LARRY
-         What do you mean door-guilt.
+         I had to sprint!
 
-                MAN
+         You gave me door guilt!
+
+                LARRY - countinuing to keep the door open
+         Door guilt?
+
+                MAN - entering the door, limping, exasperated.
          Massive door guilt.
          
 
@@ -1006,12 +1011,32 @@ Guess who’s also in the shop? The DENTIST and RECEPTIONIST enjoying some coffe
                 RECEPTIONIST
           Are you... are you injuring more people now?
 
-                LARRY
-          I’m not the Door Dictator! Okay? I’m just trying to get a cup of coffee without becoming a door villain!
+               LARRY
+          I tried doing the right thing!
 
-                JEFF
-          Door-tator.
+          Look where it got me!
 
-                LARRY
-          Exactly. No one wants that.
 
+A WOMAN approaches.
+Not close enough.
+Not far enough.
+
+Behind her...
+An ELDERLY MAN.
+
+A DELIVERY GUY carrying boxes, he can barely see over the boxes.
+
+A MOM with a stroller next to a MAN on crutches.
+
+Everyone is at different distances.
+Larry's eyes dart between them.
+
+He's running the algorithm.
+Larry freezes (He's still holding the door open!).
+Hold it?
+Don't hold it?
+Everyone watches.
+
+Larry panics.
+
+CUT TO BLACK.
