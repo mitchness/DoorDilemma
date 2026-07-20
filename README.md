@@ -984,7 +984,8 @@ The man speeds up—then TRIPS HARD. Falls. Screams.
          I can’t win!
 
                 MAN
-         You pressured me!  I had to speed up!  It’s door guilt!  You gave me door guilt.
+         You pressured me!  You saw how far I was?!
+         I had to speed up!  It’s door guilt!  You gave me door guilt.
 
                 LARRY
          What do you mean door-guilt.
