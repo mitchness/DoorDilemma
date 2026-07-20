@@ -630,7 +630,7 @@ JEFF’S WIFE enters.
 
                 SUSIE
          It's a thing.       
-         Now she had to see a chiropractor!
+         Now she has to see a chiropractor!
 
                 LARRY
          A little more flexibility.
