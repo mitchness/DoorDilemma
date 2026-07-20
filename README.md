@@ -182,9 +182,8 @@ The audience can still hear her voice in the hallway as we cut to the next scene
      (laughs)
 
 
-  LARRY DAVID walks briskly toward a medical building, slightly late. He reaches for the door, opens it... then pauses.
+He reaches for the door, opens it...
   
-
 ## SCENE 2 – INT. DENTIST OFFICE – MOMENTS LATER
 LARRY bursts in. The RECEPTIONIST, chipper but fake, looks up.
 
