@@ -486,7 +486,7 @@ Everyone pauses.
          It’s all math.        
          You account for distance, walking speed, athleticism.
 
-                   RECEPTIONIST
+                   WOMAN
          I'm athletic.  
          I do Pilattes.
 
