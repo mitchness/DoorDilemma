@@ -478,8 +478,11 @@ That's when everyone notices him.
 Larry thinking to himself.  Running the simulation in his head.
 
                    LARRY
-         ... The door was one of those... slow-shutters.  So that makes it 
-         a bit harder to gauge.  Nonetheless!
+         ... Ah          
+         ... The door was one of those... slow-shutters.  
+         That complicates the calculation.
+         ...
+         Nonetheless!
           
 
                 RECEPTIONIST
