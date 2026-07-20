@@ -44,7 +44,7 @@ The woman backs up a foot so she can lean out her window.
 Larry throws his hands up.
 
                  ATTENDANT (V.O.)
-         Well... I can let you in, but next time you'll need to stop by the office and update your permit.
+         Well... I can let you in, but next time you'll need to stop by the office and update your access card.
 
 The gate rises.
 She smiles.
