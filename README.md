@@ -538,7 +538,7 @@ Larry thinking to himself.  Running the simulation in his head.
                 WOMAN
          Whatever
 
-                LARRY
+                LARRY (correcting himself)
          Calculation.
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
