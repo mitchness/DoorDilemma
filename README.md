@@ -743,9 +743,10 @@ JEFF’S WIFE enters.
 
           Larry holds the door open for a smiling GIRL SCOUT. 
           
-          Just as he is ready to let go of the door, another appears.  Then another.
+          Just as he is ready to let go of the door, another GIRL SCOUT appears.
+          Then another.
 
-          He starts to get exasperated. 
+          Larry starts to get exasperated. 
 
           Then, a whole TROOP appears, filing past him with endless thank-yous.
 
