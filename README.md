@@ -397,6 +397,20 @@ That's when everyone notices him.
          
          You crossed the threshold.
 
+Everyone pauses.         
+
+                  WOMAN
+         The threshold?
+
+                  LARRY
+         Yes.
+
+                  RECEPTIONIST
+         There's a threshold?
+
+                  LARRY
+         Of course there's a threshold.
+
                   DENTIST
          Larry...
 
@@ -502,10 +516,15 @@ Larry thinking to himself.  Running the simulation in his head.
          Slow-Mo.
 
                 WOMAN
-         Well now I'm going to need physical therapy...
+         Well now I'm going to need physical therapy.
 
-         Thanks to your little rule or guidline or whatever you are calling it..
+         Thanks to your little rule...
 
+                  LARRY
+         Guidline.
+
+                WOMAN
+         Whatever
 
                 LARRY
          Calculation.
