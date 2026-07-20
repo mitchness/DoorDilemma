@@ -945,7 +945,7 @@ Larry's hip goes out.
          Then there was a five-second extension.
          
 
-EXT. PILATES STUDIO - LATER
+**EXT. PILATES STUDIO - LATER**
 
 Larry exits slowly.
 
