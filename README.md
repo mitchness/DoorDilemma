@@ -79,7 +79,8 @@ He notices the woman several steps behind.
 
 He hesitates...
 
-...then holds the door.
+...then 
+...holds the door.
 
 She beams.
 
