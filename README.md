@@ -741,15 +741,20 @@ JEFF’S WIFE enters.
 
           INT. COMMUNITY CENTER – DAY
 
-          Larry holds the door open for a smiling GIRL SCOUT. Then another. Then another.
+          Larry holds the door open for a smiling GIRL SCOUT. 
+          
+          Just as he is ready to let go of the door, another appears.  Then another.
 
-          A whole TROOP appears, filing past him with endless thank-yous.
+          He starts to get exasperated. 
 
-          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. Larry makes a
-          weak attempt to keep control of the door.
+          Then, a whole TROOP appears, filing past him with endless thank-yous.
+
+          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. 
+          Larry quickly goes from being exasperated to wanting to be the one to hold the door.
+          Larry makes a weak attempt to keep control of the door.
 
           The Marine calmly places one massive hand on the door, effortlessly claiming dominance. Larry
-          surrenders, sheepish.
+          surrenders, sheepish, and enters with the GIRL SCOUTS.
    
           Then — another Girl Scout troop comes around the corner. Larry is trapped in the middle, swallowed
           by sashes and merit badges.
@@ -813,13 +818,20 @@ JEFF’S WIFE enters.
 
           The standoff drags on until the door starts to slowly close on them both.
 
-## SCENE 8 – EXT. HOTEL LOBBY ENTRANCE – DAY
-LARRY, JEFF, and SUSIE are walking up to a fancy hotel. A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
+ 
+
+## SCENE 8 – EXT. DIVINE PILATES LOBBY ENTRANCE – DAY
+LARRY, JEFF, and SUSIE are walking up to the pilates studio.  Larry wearing his best attempt at Pilates attire.  
+JEFF in standard old-school grey sweat pants.
+
+A sleek AUTOMATIC SLIDING DOOR whooshes open as they approach.
 
 LARRY rushes a few steps ahead and stretches out his arms dramatically—like he's holding the doors open himself.
 
                 LARRY (after a beat)
-         There you go. Look at that. Door courtesy.
+         There you go. 
+         
+         Door courtesy.
 
                 SUSIE (laughing, then dead serious)
          Are you outta your mind? You didn’t open that door! It opened itself!
@@ -835,8 +847,10 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
          Larry... she’s kinda right.
 
                 LARRY
-         Of course you’re taking her side. But it’s symbolic. It’s body language. 
-         I’m saying, “Hey, I care. Go ahead.” That’s what society runs on—symbolic doors.
+         Of course you’re taking her side. But it’s symbolic. 
+         I’m saying, “Hey, I care. Go ahead.” 
+         
+         That’s what society runs on: symbolic doors.
 
                   SUSIE
          You want a trophy for pretending to hold a door that opens itself?
@@ -863,6 +877,13 @@ LARRY rushes a few steps ahead and stretches out his arms dramatically—like he
                 LARRY (pouting)
          Wow. Door respect is dead.
 
+LARRY, JEFF, and SUSIE enter the studio.
+
+                PILATES INSTUCTOR SUBSTITUTE
+         Hello everyone.  Let's start.
+
+         I just want to anounce that Sandra will still not be able to join us.
+         Her shoulder has still not mended.
 
 ## SCENE 9 – INT. COFFEE SHOP – NEXT DAY
 LARRY and JEFF enter. Larry opens the door for JEFF.
