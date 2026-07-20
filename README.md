@@ -1015,7 +1015,7 @@ Guess who’s also in the shop? The DENTIST and RECEPTIONIST enjoying some coffe
           Look where it got me!
 
 
-A WOMAN approaches.
+A WOMAN approaches the door that Larry is still holding open.
 Not close enough.
 Not far enough.
 
