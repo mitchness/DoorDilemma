@@ -29,7 +29,8 @@ The woman presses the HELP button.
 
 A long pause.
 
-Finally—
+Finally
+
 
                 ATTENDANT (V.O.)
          Parking Services.
