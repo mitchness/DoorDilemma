@@ -415,7 +415,7 @@ That's when everyone notices him.
 
          Well... not exactly a cutoff.
 
-         More of a sliding scale.
+         Maybe more of a sliding scale.
 
                   DENTIST
          A sliding scale?
@@ -434,7 +434,7 @@ That's when everyone notices him.
 
          ...Okay, they're rules.
 
-         Look, I've got a door timing algorithm.      
+        Look, I've got a door timing algorithm.  Errr?  Caluculation! 
 
                   WOMAN
          You calculated whether or not to hold the door?
@@ -450,13 +450,12 @@ That's when everyone notices him.
          And the solution was “let the door crush her”?
 
                   LARRY
-         No, look. If the door closes... naturally... by the time she gets to the door
+         No, look. It simple really.  
+         If the door closes... naturally... by the time she gets to the door
          — well then I’m in the clear.
 
          It’s all math.        
          You account for distance, walking speed, athleticism.
-
-         And the door was one of those slow-shutters.
 
                    RECEPTIONIST
          I'm athletic.  
@@ -471,11 +470,20 @@ That's when everyone notices him.
                   LARRY
          She was so far away.
 
+         Here's the problem.  
+
+Larry thinking to himself.  Running the simulation in his head.
+
+                   LARRY
+         ... The door was one of those... slow-shutters.  So that makes it 
+         a bit harder to gauge.  Nonetheless!
+          
+
                 RECEPTIONIST
          You couldn’t have held it five more seconds?
 
                 LARRY
-         That's how it starts.
+         See!  That's how it starts.
          Five becomes ten.
          Ten becomes fifteen.
          
@@ -490,8 +498,11 @@ That's when everyone notices him.
                 WOMAN
          Well now I'm going to need physical therapy...
 
-         Thanks to your little algorithm.
+         Thanks to your little rule or guidline or whatever you are calling it..
 
+
+                LARRY
+         Calculation.
 
 ## SCENE 6 – INT. AGENT’S HOUSE – NIGHT
 LARRY tells the story to his AGENT (JEFF).
