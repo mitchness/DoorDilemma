@@ -718,7 +718,9 @@ JEFF’S WIFE enters.
 
           Larry exits an elevator, gesturing politely for a WOMAN to go first. She smiles faintly.
 
-          She pushes open a heavy garage door. Larry rushes in awkwardly to “help,” letting her go first again.
+          Since the WOMAN was the first to leave the elevator she is the first to come upon the 
+          heavy garage door.  She struggles to open the door.  Larry rushes in awkwardly to “help,” but she's already
+          done most of the work.
 
           They walk toward their cars. Larry, whistling cheerfully, is right behind her. She grows visibly nervous.
 
