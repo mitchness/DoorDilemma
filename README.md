@@ -748,7 +748,7 @@ JEFF’S WIFE enters.
 
           Then, a whole TROOP appears, filing past him with endless thank-yous.
 
-          Finally, the TROOP LEADER arrives with her HUSBAND — a towering ex-MARINE in uniform. 
+          Finally, the TROOP LEADER arrives with her HUSBAND — a towering MARINE in uniform. 
           Larry quickly goes from being exasperated to wanting to be the one to hold the door.
           Larry makes a weak attempt to keep control of the door.
 
