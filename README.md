@@ -1019,10 +1019,13 @@ A WOMAN approaches the door that Larry is still holding open.
 Not close enough.
 Not far enough.
 
+
 Also approaching the door from a different angle
 An ELDERLY MAN walking slowly.
 
+
 A DELIVERY GUY carrying boxes, he can barely see over the boxes.
+
 
 A MOM with a stroller next to a MAN on crutches.
 
